@@ -18,4 +18,4 @@ The script is created following Sun Knudsen's [How to spoof MAC address and host
    sudo scutil --set LocalHostName "Your_names-MacBook-Pro"
    sudo scutil --set HostName "Your_names-MacBook-Pro"
    ```
-# change-mac-address-and-host-name
+   
